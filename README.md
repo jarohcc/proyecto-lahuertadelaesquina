@@ -1,2 +1,4 @@
 # proyecto-lahuertadelaesquina
-Este será el repositorio que se utilizará para guaradr todo el material que utilicemos para avanzar el proyecto de nuestra empresa.  
+Este será el repositorio que se utilizará para guaradr todo el material que utilicemos para avanzar el proyecto de nuestra empresa.
+
+Descripción: una tienda que vende verduras cultivadas en una huerta del pueblo o cercana al pueblo, cuyo principal objetivo es seer una tineda de confianza la cual se sepa que todos los productos utilizados, tanto para venta como para producir las verduras, son sostenibles y locales, siempre poniendo el bienestar del medioambiente en primer lugar. También, queremos que sea una tienda la cual las personas mayores vengan con total confianza y no sufran una sobreinformación.
